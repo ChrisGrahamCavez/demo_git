@@ -1,2 +1,4 @@
 # demo_git
 une demo de git qui affiche ceci
+
+et Maintenant on modifie depuis Github
