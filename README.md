@@ -2,4 +2,5 @@
 une demo de git qui affiche ceci
 
 et Maintenant on modifie depuis Github
-mais aussi depuis ma machine locale
+mais aussi depuis ma machine locale et c'est cool
+
